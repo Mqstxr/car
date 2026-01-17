@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🏎️ 3D Car Simulator
 
 A fun 3D car racing game built with React and Three.js!
